@@ -233,14 +233,7 @@ ul.breadcrumb li a{
   position: absolute;
   padding: 10px 20px;
 }
-/* .img_in_tilte{
-  display: flex;
-  margin-left: ;
-} */
-/* .tilte_item img{
-  display: flex;
-  justify-content: flex-end;
-} */
+
 .page_footer{
   margin-top: 40px;
   background-color: rgb(51, 173, 204);
